@@ -1,0 +1,17 @@
+{
+  "name": "같이합서",
+  "short_name": "같이합서",
+  "description": "제주 뚜벅이 여행자를 위한 즉석 동행 매칭 PWA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8ef",
+  "theme_color": "#ff7a1a",
+  "icons": [
+    {
+      "src": "./assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
